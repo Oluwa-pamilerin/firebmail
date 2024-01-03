@@ -42,7 +42,7 @@ client: The name of the client (default is 'smtp.gmail.com'). Attempts to use un
 ## Example with attachment
 ```python
 import os
-from firebmail.firebmail import sendmail
+from firebmail import sendmail
 
 
 
